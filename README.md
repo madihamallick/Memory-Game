@@ -1,6 +1,5 @@
 # Memory Game
 
-A simple memory game using basic html, css and javascript
 
 <h1 align=center>Game Preview ▶ </h1>
   <p align="center">
